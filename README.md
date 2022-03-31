@@ -22,3 +22,16 @@ Scripts: Code (can separate by language)
 Output: Figures, tables, results
 
 Every folder should contain a README to explain what it contains
+
+### NAMING CONVENTIONS
+File naming best practices: Be as descriptive as possible
+
+Can add leading numbers to scripts that indicate order they should be run e.g.
+- 01-data_processing.R
+- 02-model_fitting.R
+
+Avoid dates/overly generic names
+
+Name output similarly to script that generated it
+
+Use hyphens and underscores, not spaces
